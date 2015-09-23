@@ -1,6 +1,11 @@
+### Special thanks go to DanieleP for her tutorial at
+### https://github.com/DanieleP/PA2-clarifying_instructions.
+### It made all the difference for me.
+
 ## This program contains two functions.  The goal is to create a special 
 ## "matrix" object, compute its inverse, and cache it.
 ## 
+
 ## The first function, makeCacheMatrix, creates a special "matrix" object
 ## that can cache its inverse.
 
